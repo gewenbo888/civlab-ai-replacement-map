@@ -6,9 +6,9 @@ Part of the **civlab** ecosystem at https://civlab.psyverse.fun — ten interact
 
 ## Links
 
-- **Live:** https://ai-replacement-map.psyverse.fun
+- **Live:** https://civlab-ai-replacement-map.psyverse.fun
 - **Hub:** https://civlab.psyverse.fun
-- **GitHub:** https://github.com/gewenbo888/ai-replacement-map
+- **GitHub:** https://github.com/gewenbo888/civlab-ai-replacement-map
 
 ## Stack
 
